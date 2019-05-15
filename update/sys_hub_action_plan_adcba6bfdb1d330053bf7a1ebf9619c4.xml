@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_plan">
+    <sys_hub_action_plan action="INSERT_OR_UPDATE">
+        <action_id display_value="PRB2Action">df9bee7fdb1d330053bf7a1ebf961953</action_id>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"adcba6bfdb1d330053bf7a1ebf9619c4","name":"plan"}}</plan>
+        <snapshot>49cba6bfdb1d330053bf7a1ebf961977</snapshot>
+        <sys_class_name>sys_hub_action_plan</sys_class_name>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2019-05-15 22:13:30</sys_created_on>
+        <sys_id>adcba6bfdb1d330053bf7a1ebf9619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>df9bee7fdb1d330053bf7a1ebf961953</sys_name>
+        <sys_package display_value="PRB2" source="x_snc_prb2">ad5be27fdb1d330053bf7a1ebf96196f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PRB2">ad5be27fdb1d330053bf7a1ebf96196f</sys_scope>
+        <sys_update_name>sys_hub_action_plan_adcba6bfdb1d330053bf7a1ebf9619c4</sys_update_name>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2019-05-15 22:13:30</sys_updated_on>
+    </sys_hub_action_plan>
+</record_update>

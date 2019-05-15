@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>prb2action</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot>49cba6bfdb1d330053bf7a1ebf961977</latest_snapshot>
+        <master_snapshot>89cba6bfdb1d330053bf7a1ebf96198e</master_snapshot>
+        <name>PRB2Action</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2019-05-15 22:12:47</sys_created_on>
+        <sys_id>df9bee7fdb1d330053bf7a1ebf961953</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>PRB2Action</sys_name>
+        <sys_package display_value="PRB2" source="x_snc_prb2">ad5be27fdb1d330053bf7a1ebf96196f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PRB2">ad5be27fdb1d330053bf7a1ebf96196f</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_df9bee7fdb1d330053bf7a1ebf961953</sys_update_name>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2019-05-15 22:13:29</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=df9bee7fdb1d330053bf7a1ebf961953"/>
+    <sys_variable_value action="delete_multiple" query="document_key=df9bee7fdb1d330053bf7a1ebf961953"/>
+</record_update>
